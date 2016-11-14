@@ -1,1 +1,1 @@
-This is Julian's first git project!
+This is Julian's first git project! Hopefully I have the ability to become a confident coder.
